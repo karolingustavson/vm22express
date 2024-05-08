@@ -7,7 +7,7 @@
     "start": "nodemon -e js,json,njk -i sessions"
   },
   "keywords": [],
-  "author": "Oliver Volkov",
+  "author": "Karolin Gustavson",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
